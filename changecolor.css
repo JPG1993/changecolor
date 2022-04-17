@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.carre{
+    border: 2px solid black;
+    background-color: black;
+    width: 35%;
+    height: 40vh;
+}
+#p{
+    color: aliceblue;
+    margin-left: 260px;
+    margin-top: 50px;
+    font-size: 3rem;
+}
+.button{
+    margin-top: 50px;
+    margin-left: 280px;
+    cursor: pointer;
+}
